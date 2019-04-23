@@ -1,0 +1,10 @@
+{
+  "name": "Dietify",
+  "description": "App for Good Health",
+  "keywords": [
+    "dietify",
+    "go",    
+  ],
+  "website": "http://github.com/mrobayo/dietify",
+  "repository": "http://github.com/mrobayo/dietify"
+}
