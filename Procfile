@@ -1,1 +1,1 @@
-web: bin/dietify
+web: bin\dietify
